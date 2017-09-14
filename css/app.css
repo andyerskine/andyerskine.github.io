@@ -1,0 +1,126 @@
+/******************************************************************************************************************************************************
+Genral
+*******************************************************************************************************************************************************/
+.wrap{
+  width: 93%;
+  margin: auto;
+  height: 10%;
+}
+.h4{
+  color:aqua;
+}
+.profile-picture{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border-color:#FFB00B;
+  border-style: solid;
+}
+.icons{
+  text-align: center;
+}
+button{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%
+  border-color:#FFB00B;
+  border-style: solid;
+}
+/******************************************************************************************************************************************************
+Navigation
+*******************************************************************************************************************************************************/
+.top-bar{
+  background-color: white;
+}
+.top-bar ul{
+  background: white;
+  border-style: none;
+}
+.top-bar li{
+  background-color:white;
+}
+
+.top-bar, .top-bar a{
+  color:white;
+  font-family:'Alegreya Sans SC', sans-serif;
+}
+
+ul, .dropdown-menu{
+  background-color: white;
+}
+
+a::after{
+  color: #0CCCDE;
+}
+/*******************************************************************
+Header
+********************************************************************/
+.header{
+background-image: url("images\IMG_2998 EDITED.jpg");
+max-width: none;
+}
+
+h4{
+  color: black;
+  font-family:'Alegreya Sans SC', sans-serif;
+}
+
+.orbit-image{
+  border-style: solid;
+  border-color: #0CCCDE;
+}
+.header-image{
+  border-style: solid;
+}
+/*******************************************************************
+Main
+********************************************************************/
+.main{
+  padding: 3em 0;
+  background-color: white;
+}
+
+.main{
+  color:black;
+  font-family: 'Exo 2', sans-serif;
+  text-align: left;
+}
+h1{
+  font-family:'Alegreya Sans SC', sans-serif;
+  color: black;
+  text-align: center;
+}
+h2{
+  font-family:'Alegreya Sans SC', sans-serif;
+  color: black;
+  text-align: center;
+}
+h3{
+  font-family:'Alegreya Sans SC', sans-serif;
+  color: black;
+}
+.volunteerimg{
+  border-color: white;
+  border-style: solid;
+}
+/*******************************************************************
+Footer
+********************************************************************/
+.footer{
+  text-align: center;
+  background-color:#0CCCDE;
+  padding: 2em 0;
+  border-top-color::#0CCCDE;
+  color: white;
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+a:link, a:visited{
+  color: black;
+}
+a:hover{
+  color:#FF7E0B;
+}
+.footer{
+  text-align: center;
+}

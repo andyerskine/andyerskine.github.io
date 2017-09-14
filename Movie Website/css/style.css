@@ -1,0 +1,103 @@
+h1{
+  color: #80ffbf;
+  font-family: Helvetica;
+  text-align: center;
+  font-weight: normal;
+  text-decoration: none;
+  
+
+}
+.movieRating{
+color: #FFFFFF;
+font-family: courier;
+font-size: 18px;
+line-height: 14px;
+}
+.movieRuntime{
+color: #FFFFFF;
+font-family: courier;
+font-size: 18px;
+line-height: 14px;
+}
+.genre{
+color: #FFFF00;
+font-family: courier;
+font-size: 16px;
+line-height: 14px;
+}
+.heading{
+color: #FFFF33;
+font-family: Verdana;
+font-size: 32px;
+font-weight: bold;
+line-height: 32px;
+margin-top: 50px;
+}
+.description{
+color: #FFFFFF;
+font-family: Verdana;
+font-size: 20px;
+line-height: 20px;
+}
+body{
+  background-color: black;
+  text-align: center;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+
+
+}
+
+p2{
+  color: #FFED0E
+}
+
+.images{
+  width:15%;
+  margin:0% auto;
+  border: 2px solid #FFFFFF;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+img{
+  width:100%;
+}
+
+.navbar{
+  width: 100%;
+  background-color:#30134c;
+  padding: 1em 0;
+  text-decoration: none;
+}
+.navbar a:link, .navbar a:visited{
+  text-decoration: none;
+  font-size: 1.3em;
+  color: lime;
+  font-family: Arial;
+}
+.navbar a:hover{
+color:yellow;
+font-family: Arial;
+text-decoration: none;
+}
+
+.navbar a:active{
+  color:black;
+  font-family: Arial;
+}
+
+/* Showtimes for the Movies*/
+
+.showtimes{
+  width: 21%;
+  margin: auto;
+  background-color: grey;
+  color:#FFFFFF;
+}
+.dates{
+  background-color: rgb(31, 11, 61);
+}
+
+.times{
+  background-color: rgb(122, 6, 6);
+}
